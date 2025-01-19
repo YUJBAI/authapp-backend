@@ -1,0 +1,8 @@
+This app is a register and login backend server
+
+model -> user.model.js
+controller -> user.controller.js
+router -> user.router.js
+
+controller -> auth.controller.js
+router -> auth.router.js
